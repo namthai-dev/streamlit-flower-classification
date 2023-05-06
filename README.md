@@ -23,3 +23,7 @@ Train model
 Run streamlit
 
     streamlit run app.py
+
+## Screenshot
+
+![Screenshot 2023-05-07 030939](https://user-images.githubusercontent.com/102452878/236644797-7815977b-8e5f-43c1-beab-020cea9370d2.png)
