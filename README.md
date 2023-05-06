@@ -13,3 +13,13 @@ Activate it
 Install dependency
 
     poetry install
+
+## How to run
+
+Train model
+
+    python model.py
+
+Run streamlit
+
+    streamlit run app.py
